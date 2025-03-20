@@ -1,0 +1,1 @@
+API hívás sikertelen: 308 - Permanent Redirect. Redirecting to https://router.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1
