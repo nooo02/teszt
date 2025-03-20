@@ -3,7 +3,7 @@ Traceback (most recent call last):
   File "C:\Users\Z170 HD3P\Documents\GitHub\uj\kanban_app\backend\app\ai_handler.py", line 142, in process_ai_request
     response = await self._call_ai_service(ai_service, prompt)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\Z170 HD3P\Documents\GitHub\uj\kanban_app\backend\app\ai_handler.py", line 257, in _call_ai_service
+  File "C:\Users\Z170 HD3P\Documents\GitHub\uj\kanban_app\backend\app\ai_handler.py", line 259, in _call_ai_service
     data = response.json()
   File "C:\Users\Z170 HD3P\Documents\GitHub\uj\kanban_app\backend\app\venv\Lib\site-packages\httpx\_models.py", line 832, in json
     return jsonlib.loads(self.content, **kwargs)
